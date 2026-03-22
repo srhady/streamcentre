@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/161358_hd/index.m3u8?x-sign=7a9e1642a2e451ef5922f741aa7308fb&x-time=1774203420&is_vip=false&token=533490842bca89b4fe53a3da0aeb206cb4bec9c8
+https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?x-sign=8fa3dc69b388057d3a8785edc3c42905&x-time=1774205160&is_vip=false&token=06860ac25a1ae3ab134be87f6367d0881964cf97
