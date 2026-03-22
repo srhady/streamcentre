@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1280000
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274844_hd/index.m3u8?x-sign=79ce01c52f7725e838261755eb711992&x-time=1774206120&is_vip=false&token=358f881579ccfb7de6b132aad103dc6f6945e21a
