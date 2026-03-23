@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/498587_hd/index.m3u8?x-sign=384efcfa75217cc1397c534168bf25ce&x-time=1774228560&is_vip=false&token=90137c2780c66096379698574d777e5da1ab9912
+https://api.lucifershop.info/stream.m3u8?url=https%3A%2F%2Flivecdn-bp-iptv.linewgen.xyz%2Flive_abr%2F498587%2Fabr.m3u8&token=19a9c3632b9ae1715a671508b08ef1022c823fbd&is_vip=false&verify=1774224000-2hzOm2Q5MCR8QoqcA8meI5m5%2BXGB6%2BXmDAmaIRgcs4U%3D
