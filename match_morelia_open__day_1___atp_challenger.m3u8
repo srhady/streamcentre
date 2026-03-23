@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1280000
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=1f01b6143e9ea4866b38a1155a91432ed358c1db&x-sign=9acaaef6fa124d7e4a4c438709e02689&x-time=1774299660
