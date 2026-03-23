@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
-https://api.lucifershop.info/stream.m3u8?url=https%3A%2F%2Flivecdn-bp-livestream.linewgen.xyz%2Fstream%2F24%2Findex.m3u8&token=19a9c3632b9ae1715a671508b08ef1022c823fbd&is_vip=false&verify=1774224000-2hzOm2Q5MCR8QoqcA8meI5m5%2BXGB6%2BXmDAmaIRgcs4U%3D
+https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?x-sign=760465cd5e885448e36bdcf1161a93e6&x-time=1774232160&is_vip=false&token=72d9d56012be894745e2a25af7e8d8c2468b4607
