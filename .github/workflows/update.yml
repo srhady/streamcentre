@@ -1,0 +1,48 @@
+name: StreamCenter Auto Scraper
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout public repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Checkout private repository
+        uses: actions/checkout@v4
+        with:
+          repository: srhady/test
+          token: ${{ secrets.PAT_TOKEN }}
+          path: secret_code
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Scraper
+        run: |
+          cp -r secret_code/* .
+          pip install -r requirements.txt
+          python main.py
+
+      - name: Clean up secret scripts
+        run: |
+          rm -rf secret_code
+          rm -f streamcenter.py utils.py main.py requirements.txt
+          rm -rf __pycache__
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "Auto-update streamcenter data" || exit 0
+          git push
