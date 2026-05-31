@@ -135,33 +135,6 @@
     "visible": true
   },
   {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-05-31",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Las Vegas Aces at Golden State Valkyries",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Las Vegas Aces at Golden State Valkyries",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:30",
-    "visible": true
-  },
-  {
     "category": "Football",
     "categoryLogo": "",
     "date": "2026-05-31",
@@ -183,6 +156,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Senegal at United States",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "20:30",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-05-31",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Las Vegas Aces at Golden State Valkyries",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Las Vegas Aces at Golden State Valkyries",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "20:30",
@@ -510,33 +510,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "17:15",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-05-31",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Jordan at Switzerland",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Jordan at Switzerland",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "14:00",
     "visible": true
   },
   {
