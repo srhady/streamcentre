@@ -1,5 +1,32 @@
 [
   {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-06-02",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Minnesota Lynx at Phoenix Mercury",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Minnesota Lynx at Phoenix Mercury",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "03:00",
+    "visible": true
+  },
+  {
     "category": "Baseball",
     "categoryLogo": "",
     "date": "2026-06-02",
@@ -105,6 +132,33 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "02:00",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-06-02",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Seattle Storm at Dallas Wings",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Seattle Storm at Dallas Wings",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "01:00",
     "visible": true
   },
   {
@@ -267,60 +321,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "23:40",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-01",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "North Macedonia at T\u00fcrkiye",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "North Macedonia at T\u00fcrkiye",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "18:30",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-01",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Sweden at Norway",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Sweden at Norway",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "18:00",
     "visible": true
   }
 ]
