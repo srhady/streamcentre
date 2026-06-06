@@ -108,33 +108,6 @@
     "visible": true
   },
   {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-07",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Indiana Fever at New York Liberty",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Indiana Fever at New York Liberty",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "01:00",
-    "visible": true
-  },
-  {
     "category": "Hockey",
     "categoryLogo": "",
     "date": "2026-06-07",
@@ -156,6 +129,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Carolina Hurricanes at Vegas Golden Knights",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "01:00",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-06-07",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Indiana Fever at New York Liberty",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Indiana Fever at New York Liberty",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "01:00",
@@ -456,87 +456,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "21:00",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Baltimore Orioles at Toronto Blue Jays",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Baltimore Orioles at Toronto Blue Jays",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:07",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Golden State Valkyries at Las Vegas Aces",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Golden State Valkyries at Las Vegas Aces",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Australia at Switzerland",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Australia at Switzerland",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
     "visible": true
   },
   {
