@@ -108,33 +108,6 @@
     "visible": true
   },
   {
-    "category": "Hockey",
-    "categoryLogo": "",
-    "date": "2026-06-07",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Carolina Hurricanes at Vegas Golden Knights",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Carolina Hurricanes at Vegas Golden Knights",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "01:00",
-    "visible": true
-  },
-  {
     "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-06-07",
@@ -156,6 +129,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Indiana Fever at New York Liberty",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "01:00",
+    "visible": true
+  },
+  {
+    "category": "Hockey",
+    "categoryLogo": "",
+    "date": "2026-06-07",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Carolina Hurricanes at Vegas Golden Knights",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/uyopzarf50.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Carolina Hurricanes at Vegas Golden Knights",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "01:00",
@@ -216,33 +216,6 @@
     "visible": true
   },
   {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Washington Mystics at Atlanta Dream",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Washington Mystics at Atlanta Dream",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "23:00",
-    "visible": true
-  },
-  {
     "category": "Football",
     "categoryLogo": "",
     "date": "2026-06-06",
@@ -264,6 +237,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Egypt at Brazil",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "23:00",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-06-06",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Washington Mystics at Atlanta Dream",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Washington Mystics at Atlanta Dream",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "23:00",
@@ -486,33 +486,6 @@
     "visible": true
   },
   {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Australia at Switzerland",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Australia at Switzerland",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
-    "visible": true
-  },
-  {
     "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-06-06",
@@ -546,7 +519,7 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Germany at United States",
+    "eventName": "Australia at Switzerland",
     "link_names": [
       "DlSports"
     ],
@@ -554,97 +527,16 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Germany at United States",
+    "teamAName": "Australia at Switzerland",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "19:30",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "San Francisco Giants at Chicago Cubs",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "San Francisco Giants at Chicago Cubs",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "19:20",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Cincinnati Reds at St. Louis Cardinals",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Cincinnati Reds at St. Louis Cardinals",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "19:15",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Kansas City Royals at Minnesota Twins",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Kansas City Royals at Minnesota Twins",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "19:10",
+    "time": "20:00",
     "visible": true
   },
   {
@@ -672,33 +564,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "19:00",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Chile at Portugal",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Chile at Portugal",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "18:45",
     "visible": true
   },
   {
