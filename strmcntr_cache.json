@@ -195,6 +195,33 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
+    "eventName": "Dallas Wings at Portland Fire",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Dallas Wings at Portland Fire",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "01:30",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-06-14",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
     "eventName": "New York Knicks at San Antonio Spurs",
     "link_names": [
       "DlSports"
@@ -216,13 +243,13 @@
     "visible": true
   },
   {
-    "category": "Basketball",
+    "category": "Boxing",
     "categoryLogo": "",
     "date": "2026-06-14",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Dallas Wings at Portland Fire",
+    "eventName": " ",
     "link_names": [
       "DlSports"
     ],
@@ -230,16 +257,43 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/hbfhzbfzak46.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Dallas Wings at Portland Fire",
+    "teamAName": " ",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "01:30",
+    "time": "01:00",
+    "visible": true
+  },
+  {
+    "category": "Fight MMA",
+    "categoryLogo": "",
+    "date": "2026-06-14",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": " ",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/hezfnezkfzk45.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": " ",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "01:00",
     "visible": true
   },
   {
@@ -591,60 +645,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "21:05",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-06-13",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "New York Yankees at Toronto Blue Jays",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "New York Yankees at Toronto Blue Jays",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:07",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-13",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Switzerland at Qatar",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Switzerland at Qatar",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
     "visible": true
   },
   {
