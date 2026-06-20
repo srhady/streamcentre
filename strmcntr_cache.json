@@ -189,33 +189,6 @@
     "visible": true
   },
   {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-21",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Cura\u00e7ao at Ecuador",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Cura\u00e7ao at Ecuador",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "01:00",
-    "visible": true
-  },
-  {
     "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-06-21",
@@ -237,6 +210,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Chicago Sky at Dallas Wings",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "01:00",
+    "visible": true
+  },
+  {
+    "category": "Football",
+    "categoryLogo": "",
+    "date": "2026-06-21",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Cura\u00e7ao at Ecuador",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Cura\u00e7ao at Ecuador",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "01:00",
@@ -432,33 +432,6 @@
     "visible": true
   },
   {
-    "category": "Motor Sport",
-    "categoryLogo": "",
-    "date": "2026-06-20",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": " ",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": " ",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "21:00",
-    "visible": true
-  },
-  {
     "category": "Football",
     "categoryLogo": "",
     "date": "2026-06-20",
@@ -483,33 +456,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "21:00",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-20",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Seattle Storm at Phoenix Mercury",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Seattle Storm at Phoenix Mercury",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
     "visible": true
   }
 ]
