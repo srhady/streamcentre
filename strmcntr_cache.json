@@ -81,33 +81,6 @@
     "visible": true
   },
   {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-21",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Cape Verde at Uruguay",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Cape Verde at Uruguay",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "23:00",
-    "visible": true
-  },
-  {
     "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-06-21",
@@ -129,6 +102,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Washington Mystics at Minnesota Lynx",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "23:00",
+    "visible": true
+  },
+  {
+    "category": "Football",
+    "categoryLogo": "",
+    "date": "2026-06-21",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Cape Verde at Uruguay",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Cape Verde at Uruguay",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "23:00",
@@ -618,33 +618,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "13:00",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-21",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Japan at Tunisia",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Japan at Tunisia",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "05:00",
     "visible": true
   }
 ]
