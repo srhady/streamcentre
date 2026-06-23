@@ -1,12 +1,39 @@
 [
   {
-    "category": "Football",
+    "category": "Basketball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Algeria at Jordan",
+    "eventName": "New York Liberty at Las Vegas Aces",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "New York Liberty at Las Vegas Aces",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "03:00",
+    "visible": true
+  },
+  {
+    "category": "Football",
+    "categoryLogo": "",
+    "date": "2026-06-24",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Congo DR at Colombia",
     "link_names": [
       "DlSports"
     ],
@@ -20,16 +47,43 @@
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Algeria at Jordan",
+    "teamAName": "Congo DR at Colombia",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "04:00",
+    "time": "03:00",
     "visible": true
   },
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Athletics Athletics at San Francisco Giants",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Athletics Athletics at San Francisco Giants",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "02:45",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -41,7 +95,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -50,40 +104,13 @@
     "teamAName": "Atlanta Braves at San Diego Padres",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "03:00",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-23",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Dallas Wings at Seattle Storm",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Dallas Wings at Seattle Storm",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "03:00",
+    "time": "02:40",
     "visible": true
   },
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -95,7 +122,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -110,7 +137,7 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -122,7 +149,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -135,63 +162,9 @@
     "visible": true
   },
   {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-23",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Senegal at Norway",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Senegal at Norway",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "01:00",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-23",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Phoenix Mercury at Indiana Fever",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Phoenix Mercury at Indiana Fever",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "01:00",
-    "visible": true
-  },
-  {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -203,7 +176,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -218,7 +191,7 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -230,7 +203,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -245,7 +218,7 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -257,7 +230,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -270,36 +243,9 @@
     "visible": true
   },
   {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-23",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Toronto Tempo at Atlanta Dream",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Toronto Tempo at Atlanta Dream",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "00:30",
-    "visible": true
-  },
-  {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -311,7 +257,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -326,7 +272,7 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -338,7 +284,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -351,13 +297,13 @@
     "visible": true
   },
   {
-    "category": "Baseball",
+    "category": "Football",
     "categoryLogo": "",
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Houston Astros at Toronto Blue Jays",
+    "eventName": "Croatia at Panama",
     "link_names": [
       "DlSports"
     ],
@@ -365,40 +311,13 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Houston Astros at Toronto Blue Jays",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "00:07",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-23",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Chicago Sky at Connecticut Sun",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Chicago Sky at Connecticut Sun",
+    "teamAName": "Croatia at Panama",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "00:00",
@@ -407,7 +326,7 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -419,7 +338,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -434,7 +353,7 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -461,7 +380,61 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "New York Yankees at Detroit Tigers",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "New York Yankees at Detroit Tigers",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "23:40",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-23",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Seattle Mariners at Pittsburgh Pirates",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Seattle Mariners at Pittsburgh Pirates",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "23:40",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-23",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
@@ -473,7 +446,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -488,11 +461,11 @@
   {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "New York Yankees at Detroit Tigers",
+    "eventName": "Houston Astros at Toronto Blue Jays",
     "link_names": [
       "DlSports"
     ],
@@ -506,10 +479,91 @@
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "New York Yankees at Detroit Tigers",
+    "teamAName": "Houston Astros at Toronto Blue Jays",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "23:10",
+    "time": "21:07",
+    "visible": true
+  },
+  {
+    "category": "Football",
+    "categoryLogo": "",
+    "date": "2026-06-23",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Ghana at England",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Ghana at England",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "21:00",
+    "visible": true
+  },
+  {
+    "category": "Football",
+    "categoryLogo": "",
+    "date": "2026-06-23",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Uzbekistan at Portugal",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Uzbekistan at Portugal",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "18:00",
+    "visible": true
+  },
+  {
+    "category": "Football",
+    "categoryLogo": "",
+    "date": "2026-06-23",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Algeria at Jordan",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Algeria at Jordan",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "04:00",
     "visible": true
   }
 ]
