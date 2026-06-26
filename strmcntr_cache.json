@@ -1,5 +1,32 @@
 [
   {
+    "category": "Motor Sport",
+    "categoryLogo": "",
+    "date": "2026-06-27",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Lenovo Austrian Grand Prix",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Lenovo Austrian Grand Prix",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "11:30",
+    "visible": true
+  },
+  {
     "category": "Football",
     "categoryLogo": "",
     "date": "2026-06-27",
@@ -264,6 +291,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Spain at Uruguay",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "01:00",
+    "visible": true
+  },
+  {
+    "category": "WWE",
+    "categoryLogo": "",
+    "date": "2026-06-27",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": " ",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": " ",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "01:00",
@@ -591,87 +645,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "23:40",
-    "visible": true
-  },
-  {
-    "category": "Motor Sport",
-    "categoryLogo": "",
-    "date": "2026-06-26",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": " ",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/oeenzgezcz47.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": " ",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "21:45",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-26",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Iraq at Senegal",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Iraq at Senegal",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-26",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "France at Norway",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "France at Norway",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
     "visible": true
   }
 ]
