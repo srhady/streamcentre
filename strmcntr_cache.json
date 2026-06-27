@@ -567,33 +567,6 @@
     "visible": true
   },
   {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-06-27",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Phoenix Mercury at Toronto Tempo",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Phoenix Mercury at Toronto Tempo",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "19:00",
-    "visible": true
-  },
-  {
     "category": "Hockey",
     "categoryLogo": "",
     "date": "2026-06-27",
@@ -618,33 +591,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "16:00",
-    "visible": true
-  },
-  {
-    "category": "Fight MMA",
-    "categoryLogo": "",
-    "date": "2026-06-27",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "UFC Fight Night: Fiziev vs. Torres",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "UFC Fight Night: Fiziev vs. Torres",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "14:00",
     "visible": true
   }
 ]
