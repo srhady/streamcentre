@@ -1,66 +1,12 @@
 [
   {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-28",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Austria at Algeria",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Austria at Algeria",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "03:00",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-28",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Argentina at Jordan",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Argentina at Jordan",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "03:00",
-    "visible": true
-  },
-  {
     "category": "Baseball",
     "categoryLogo": "",
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Athletics Athletics at Los Angeles Angels",
+    "eventName": "New York Yankees at Boston Red Sox",
     "link_names": [
       "DlSports"
     ],
@@ -74,47 +20,20 @@
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Athletics Athletics at Los Angeles Angels",
+    "teamAName": "New York Yankees at Boston Red Sox",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "02:38",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-06-28",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Atlanta Braves at San Francisco Giants",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Atlanta Braves at San Francisco Giants",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "02:05",
+    "time": "00:20",
     "visible": true
   },
   {
     "category": "Basketball",
     "categoryLogo": "",
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Atlanta Dream at Seattle Storm",
+    "eventName": "New York Liberty at Golden State Valkyries",
     "link_names": [
       "DlSports"
     ],
@@ -122,16 +41,16 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Atlanta Dream at Seattle Storm",
+    "teamAName": "New York Liberty at Golden State Valkyries",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "02:00",
+    "time": "00:00",
     "visible": true
   },
   {
@@ -149,7 +68,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -158,7 +77,34 @@
     "teamAName": "Los Angeles Dodgers at San Diego Padres",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "01:40",
+    "time": "21:10",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Atlanta Braves at San Francisco Giants",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Atlanta Braves at San Francisco Giants",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "21:05",
     "visible": true
   },
   {
@@ -168,7 +114,61 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Los Angeles Sparks at Indiana Fever",
+    "eventName": "Las Vegas Aces at Chicago Sky",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Las Vegas Aces at Chicago Sky",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "21:00",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Athletics Athletics at Los Angeles Angels",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Athletics Athletics at Los Angeles Angels",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "20:15",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Portland Fire at Washington Mystics",
     "link_names": [
       "DlSports"
     ],
@@ -182,10 +182,10 @@
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Los Angeles Sparks at Indiana Fever",
+    "teamAName": "Portland Fire at Washington Mystics",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "01:00",
+    "time": "20:00",
     "visible": true
   },
   {
@@ -195,7 +195,7 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Uzbekistan at Congo DR",
+    "eventName": "Canada at South Africa",
     "link_names": [
       "DlSports"
     ],
@@ -209,37 +209,10 @@
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Uzbekistan at Congo DR",
+    "teamAName": "Canada at South Africa",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "00:30",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-06-28",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Portugal at Colombia",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Portugal at Colombia",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "00:30",
+    "time": "20:00",
     "visible": true
   },
   {
@@ -257,7 +230,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -266,34 +239,7 @@
     "teamAName": "Miami Marlins at St. Louis Cardinals",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "00:15",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-06-28",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Seattle Mariners at Cleveland Guardians",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Seattle Mariners at Cleveland Guardians",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "00:10",
+    "time": "19:15",
     "visible": true
   },
   {
@@ -311,7 +257,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -320,7 +266,7 @@
     "teamAName": "Chicago Cubs at Milwaukee Brewers",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "00:10",
+    "time": "19:10",
     "visible": true
   },
   {
@@ -338,7 +284,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -347,7 +293,223 @@
     "teamAName": "Colorado Rockies at Minnesota Twins",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "00:10",
+    "time": "19:10",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Kansas City Royals at Chicago White Sox",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Kansas City Royals at Chicago White Sox",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "19:10",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Minnesota Lynx at Dallas Wings",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Minnesota Lynx at Dallas Wings",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "19:00",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Arizona Diamondbacks at Tampa Bay Rays",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Arizona Diamondbacks at Tampa Bay Rays",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "18:40",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Houston Astros at Detroit Tigers",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Houston Astros at Detroit Tigers",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "18:40",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Philadelphia Phillies at New York Mets",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Philadelphia Phillies at New York Mets",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "18:40",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Seattle Mariners at Cleveland Guardians",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Seattle Mariners at Cleveland Guardians",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "18:40",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Texas Rangers at Toronto Blue Jays",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Texas Rangers at Toronto Blue Jays",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "18:37",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Cincinnati Reds at Pittsburgh Pirates",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Cincinnati Reds at Pittsburgh Pirates",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "18:35",
     "visible": true
   },
   {
@@ -365,7 +527,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -374,7 +536,34 @@
     "teamAName": "Washington Nationals at Baltimore Orioles",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "00:05",
+    "time": "18:35",
+    "visible": true
+  },
+  {
+    "category": "Motor Sport",
+    "categoryLogo": "",
+    "date": "2026-06-28",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Lenovo Austrian Grand Prix",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Lenovo Austrian Grand Prix",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "14:00",
     "visible": true
   }
 ]
