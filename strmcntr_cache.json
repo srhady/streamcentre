@@ -135,6 +135,33 @@
     "visible": true
   },
   {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-07-05",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Toronto Blue Jays at Seattle Mariners",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Toronto Blue Jays at Seattle Mariners",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "22:00",
+    "visible": true
+  },
+  {
     "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-07-05",
@@ -162,13 +189,13 @@
     "visible": true
   },
   {
-    "category": "Baseball",
+    "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-07-05",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Toronto Blue Jays at Seattle Mariners",
+    "eventName": "Miami Heat at Los Angeles Lakers",
     "link_names": [
       "DlSports"
     ],
@@ -176,16 +203,16 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Toronto Blue Jays at Seattle Mariners",
+    "teamAName": "Miami Heat at Los Angeles Lakers",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "22:00",
+    "time": "21:30",
     "visible": true
   },
   {
@@ -216,13 +243,13 @@
     "visible": true
   },
   {
-    "category": "Basketball",
+    "category": "Football",
     "categoryLogo": "",
     "date": "2026-07-05",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Miami Heat at Los Angeles Lakers",
+    "eventName": "Norway at Brazil",
     "link_names": [
       "DlSports"
     ],
@@ -230,16 +257,16 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Miami Heat at Los Angeles Lakers",
+    "teamAName": "Norway at Brazil",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "21:30",
+    "time": "21:00",
     "visible": true
   },
   {
@@ -291,33 +318,6 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Milwaukee Brewers at Arizona Diamondbacks",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "21:00",
-    "visible": true
-  },
-  {
-    "category": "Football",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Norway at Brazil",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Norway at Brazil",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "21:00",
@@ -378,33 +378,6 @@
     "visible": true
   },
   {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Brooklyn Nets at Milwaukee Bucks",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Brooklyn Nets at Milwaukee Bucks",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
-    "visible": true
-  },
-  {
     "category": "Baseball",
     "categoryLogo": "",
     "date": "2026-07-05",
@@ -426,6 +399,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Philadelphia Phillies at Kansas City Royals",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "20:00",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-07-05",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Brooklyn Nets at Milwaukee Bucks",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Brooklyn Nets at Milwaukee Bucks",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "20:00",
@@ -510,87 +510,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "19:00",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Minnesota Twins at New York Yankees",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Minnesota Twins at New York Yankees",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "18:35",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Baltimore Orioles at Cincinnati Reds",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Baltimore Orioles at Cincinnati Reds",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "18:05",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Pittsburgh Pirates at Washington Nationals",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Pittsburgh Pirates at Washington Nationals",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "18:00",
     "visible": true
   }
 ]
