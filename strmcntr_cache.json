@@ -135,33 +135,6 @@
     "visible": true
   },
   {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Toronto Blue Jays at Seattle Mariners",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Toronto Blue Jays at Seattle Mariners",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "22:00",
-    "visible": true
-  },
-  {
     "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-07-05",
@@ -183,6 +156,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Golden State Warriors Blue at Sacramento Kings",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "22:00",
+    "visible": true
+  },
+  {
+    "category": "Baseball",
+    "categoryLogo": "",
+    "date": "2026-07-05",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Toronto Blue Jays at Seattle Mariners",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Toronto Blue Jays at Seattle Mariners",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "22:00",
@@ -411,33 +411,6 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Brooklyn Nets at Milwaukee Bucks",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Brooklyn Nets at Milwaukee Bucks",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "20:00",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
     "eventName": "Dallas Wings at Toronto Tempo",
     "link_names": [
       "DlSports"
@@ -459,13 +432,13 @@
     "visible": true
   },
   {
-    "category": "Baseball",
+    "category": "Basketball",
     "categoryLogo": "",
     "date": "2026-07-05",
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "St. Louis Cardinals at Chicago Cubs",
+    "eventName": "Brooklyn Nets at Milwaukee Bucks",
     "link_names": [
       "DlSports"
     ],
@@ -473,43 +446,16 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "St. Louis Cardinals at Chicago Cubs",
+    "teamAName": "Brooklyn Nets at Milwaukee Bucks",
     "teamBFlag": " ",
     "teamBName": " ",
-    "time": "19:30",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-07-05",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Chicago White Sox at Cleveland Guardians",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Chicago White Sox at Cleveland Guardians",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "19:00",
+    "time": "20:00",
     "visible": true
   }
 ]
