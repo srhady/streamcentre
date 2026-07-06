@@ -195,7 +195,7 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Golden State Warriors Blue at Brooklyn Nets",
+    "eventName": "Connecticut Sun at Minnesota Lynx",
     "link_names": [
       "DlSports"
     ],
@@ -203,13 +203,13 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Golden State Warriors Blue at Brooklyn Nets",
+    "teamAName": "Connecticut Sun at Minnesota Lynx",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "01:00",
@@ -249,7 +249,7 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Connecticut Sun at Minnesota Lynx",
+    "eventName": "Golden State Warriors Blue at Brooklyn Nets",
     "link_names": [
       "DlSports"
     ],
@@ -257,13 +257,13 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
     ],
     "teamAFlag": " ",
-    "teamAName": "Connecticut Sun at Minnesota Lynx",
+    "teamAName": "Golden State Warriors Blue at Brooklyn Nets",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "01:00",
@@ -483,33 +483,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "20:00",
-    "visible": true
-  },
-  {
-    "category": "Baseball",
-    "categoryLogo": "",
-    "date": "2026-07-06",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Philadelphia Phillies at Kansas City Royals",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Philadelphia Phillies at Kansas City Royals",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "19:10",
     "visible": true
   }
 ]
