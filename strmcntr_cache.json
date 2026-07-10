@@ -87,33 +87,6 @@
     "end_date": "",
     "end_time": "",
     "eventLogo": "",
-    "eventName": "Chicago Sky at Los Angeles Sparks",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/sqhdghzavbxu75.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Chicago Sky at Los Angeles Sparks",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "03:00",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-07-11",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
     "eventName": "Oklahoma City Thunder at Los Angeles Lakers",
     "link_names": [
       "DlSports"
@@ -129,6 +102,33 @@
     ],
     "teamAFlag": " ",
     "teamAName": "Oklahoma City Thunder at Los Angeles Lakers",
+    "teamBFlag": " ",
+    "teamBName": " ",
+    "time": "03:00",
+    "visible": true
+  },
+  {
+    "category": "Basketball",
+    "categoryLogo": "",
+    "date": "2026-07-11",
+    "end_date": "",
+    "end_time": "",
+    "eventLogo": "",
+    "eventName": "Chicago Sky at Los Angeles Sparks",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/sqhdghzavbxu75.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": " ",
+    "teamAName": "Chicago Sky at Los Angeles Sparks",
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "03:00",
@@ -753,33 +753,6 @@
     "teamBFlag": " ",
     "teamBName": " ",
     "time": "08:00",
-    "visible": true
-  },
-  {
-    "category": "Basketball",
-    "categoryLogo": "",
-    "date": "2026-07-10",
-    "end_date": "",
-    "end_time": "",
-    "eventLogo": "",
-    "eventName": "Sacramento Kings at LA Clippers",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": " ",
-    "teamAName": "Sacramento Kings at LA Clippers",
-    "teamBFlag": " ",
-    "teamBName": " ",
-    "time": "04:00",
     "visible": true
   }
 ]
